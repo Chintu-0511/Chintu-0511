@@ -39,7 +39,7 @@ I'm a **Computer Science & Engineering student specializing in Artificial Intell
 My primary interests include:
 
 - 🤖 Artificial Intelligence & Machine Learning
-- 👁️ Computer Vision & Deep Learning
+- 👁️ Deep Learning
 - 🧠 Generative AI & RAG
 - 💻 Full-Stack Development
 - ⚙️ Backend Engineering
@@ -217,13 +217,13 @@ A project focused on algorithmic trading concepts, strategy development, data an
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript&theme=dark" />
 
 <br/><br/>
 
 ### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" />
 
 <br/><br/>
 
@@ -241,13 +241,13 @@ A project focused on algorithmic trading concepts, strategy development, data an
 
 ### 🤖 AI / ML
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
+<img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=dark" />
 
 <br/><br/>
 
 ### 🔧 Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" />
 
 </div>
 
@@ -259,7 +259,7 @@ A project focused on algorithmic trading concepts, strategy development, data an
 
 | Area | Focus |
 | :--- | :--- |
-| 🧠 Machine Learning | Scikit-learn, XGBoost, Classical ML |
+| 🧠 Machine Learning | Scikit-learn, Classical ML |
 | 🔥 Deep Learning | PyTorch, CNNs, Transfer Learning |
 | 👁️ Computer Vision | Image Classification, Image Processing |
 | 🎯 Attention | CBAM & Attention Mechanisms |
@@ -484,11 +484,9 @@ while (alive) {
 
 > **Build things slightly beyond what you currently know how to build.**
 
----
-
 # 🎓 Education
 
-### VNR Vignana Jyothi Institute of Engineering & Technology
+### 🎓 VNR Vignana Jyothi Institute of Engineering & Technology
 
 **Bachelor of Technology — Computer Science & Engineering**
 
@@ -498,6 +496,19 @@ while (alive) {
 
 ---
 
+### 📚 Sri Chaitanya College
+
+**Intermediate Education**
+
+📊 **Percentage:** 92%
+
+---
+
+### 🏫 Holy Family School
+
+**Secondary School Education**
+
+📊 **GPA:** 10.0
 # 🎯 2026 Goals
 
 <div align="center">
